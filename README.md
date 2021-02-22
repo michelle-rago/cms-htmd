@@ -2,7 +2,7 @@
 title: README
 ---
 
-This course is being developed as a learning materials pilot in conjunction with colleagues at the Centers for Medicare and Medicaid Services. 
+This course is being developed for NASA SBIR. This course content is based on a pilot developed by 18F in conjunction with colleagues at the Centers for Medicare and Medicaid Services.
 
 THIS COURSE DOES NOT REPRESENT OFFICIAL GUIDANCE. It represents neither changes to existing policy nor pending new policies. **THIS IS NOT OFFICIAL GUIDANCE**.
 ## Building this site
